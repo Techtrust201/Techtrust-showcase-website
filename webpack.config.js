@@ -3,6 +3,7 @@ const path = require('path');
 
 module.exports = {
   entry: './src/index.tsx', // Votre point d'entrée TypeScript
+  mode: 'development',
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
@@ -29,7 +30,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebPackPlugin({
-      template: './src/index.html',
+      template: './public/index.html',
       filename: './index.html',
     }),
   ],

@@ -1,0 +1,44 @@
+{
+  "/home/hugo/work/digital_p/Techtrust-showcase-website/src/components/App.tsx": {
+    "path": "/home/hugo/work/digital_p/Techtrust-showcase-website/src/components/App.tsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 26 }
+      },
+      "1": {
+        "start": { "line": 7, "column": 32 },
+        "end": { "line": 7, "column": 58 }
+      },
+      "2": {
+        "start": { "line": 7, "column": 39 },
+        "end": { "line": 7, "column": 41 }
+      },
+      "3": {
+        "start": { "line": 7, "column": 46 },
+        "end": { "line": 7, "column": 70 }
+      },
+      "4": {
+        "start": { "line": 9, "column": 0 },
+        "end": { "line": 9, "column": 19 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 7, "column": 32 },
+          "end": { "line": 7, "column": 33 }
+        },
+        "loc": {
+          "start": { "line": 7, "column": 41 },
+          "end": { "line": 7, "column": 58 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1, "2": 0, "3": 0, "4": 1 },
+    "f": { "0": 0 },
+    "b": {}
+  }
+}
