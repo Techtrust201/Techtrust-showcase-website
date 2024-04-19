@@ -4,6 +4,8 @@ import App from './App';
 
 test('renders greeting message', () => {
   render(<App />);
-  const appElement = screen.getByText('Welcome to Techtrust Showcase Website');
+  const appElement = screen.getByText(
+    'Welcome to Techtrust Showcase Websiteee',
+  );
   expect(appElement).toBeInTheDocument();
 });
